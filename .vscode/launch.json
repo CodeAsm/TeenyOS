@@ -23,7 +23,7 @@
                     "ignoreFailures": true
                 }
             ],
-            "preLaunchTask": "NASM Build active file",
+            "preLaunchTask": "NASM Debug Build active file",
             "miDebuggerPath": "/usr/bin/gdb"
         }
     ]
